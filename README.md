@@ -3,12 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;B.Tech+IoT+Student;Data+Science+Enthusiast;Full+Stack+Learner;Solving+Problems+with+Code;Welcome+to+my+GitHub+Profile!" />
 </p>
 
-
-<h3 align="center">
-B.Tech IoT Student | Data Science Enthusiast |
-DSA Learner | Full Stack Developer
-</h3>
-
 <img align="right" alt="Coding" width="350"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
