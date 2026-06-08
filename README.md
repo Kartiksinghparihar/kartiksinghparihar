@@ -1,21 +1,103 @@
-# Hi 👋, I'm Kartik Singh Parihar
+<h1 align="center">Hi 👋, I'm Kartik Singh Parihar</h1>
 
-### B.Tech IoT Student | Data Science Enthusiast | DSA Learner
+<h3 align="center">
+B.Tech IoT Student | Data Science Enthusiast |
+DSA Learner | Full Stack Developer
+</h3>
 
-* 🎓 B.Tech in IoT at MITS Gwalior
-* 📊 Interested in Data Science & Analytics
-* 💻 Learning Full Stack Development
-* 🌱 Exploring AI, ML and IoT
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## Connect with me
+* 🎓 B.Tech in Internet of Things at **MITS Gwalior**
 
-📧 [kartiksinghp2006@gmail.com](mailto:kartiksinghp2006@gmail.com)
+* 🌱 Currently learning **Data Science, Machine Learning, DSA and Full Stack Development**
 
-💼 LinkedIn
-https://www.linkedin.com/in/kartik-singh-parihar-973518329
+* 💡 Interested in **IoT, Databases and AI**
 
-💻 GitHub
-https://github.com/Kartiksinghparihar
+* 🚀 Building real-world projects using React, Python and MySQL
 
-🧠 LeetCode
-https://leetcode.com/u/Kartik_leetcodee01/
+* 🎯 Solved **30+ LeetCode Problems**
+
+* 📊 Current CGPA **7.5**
+
+* 📫 Email: **[kartiksinghp2006@gmail.com](mailto:kartiksinghp2006@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Kartiksinghparihar">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/kartik-singh-parihar-973518329">
+LinkedIn
+</a>
+
+•
+
+<a href="https://leetcode.com/u/Kartik_leetcodee01/">
+LeetCode
+</a>
+
+</p>
+
+---
+
+## 🚀 Languages and Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,mysql,git,github,vscode,html,css,javascript" />
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🌱 AgriGrow Smart Agriculture
+
+AI based crop disease prediction, weather monitoring and smart agriculture dashboard.
+
+### 📚 Previous Year Paper Dashboard
+
+Organized dashboard for managing previous year papers.
+
+### 🚗 Smart Parking System
+
+Vehicle tracking, toll management and parking monitoring.
+
+### 🚆 Railway Management System
+
+Database driven railway administration system.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Kartiksinghparihar\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kartiksinghparihar\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartiksinghparihar\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🏆 Goals 2026
+
+✅ Strengthen DSA
+
+✅ Build AI & Data Science Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Software/Data Science Internship
+
+---
+
+⭐ Thanks for visiting my profile!
