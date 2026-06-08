@@ -54,25 +54,32 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🌱 AgriGrow Smart Agriculture
+<table align="center">
 
-AI based crop disease prediction, weather monitoring and smart agriculture dashboard.
+<tr>
 
-### 📚 Previous Year Paper Dashboard
+<td align="center">
 
-Organized dashboard for managing previous year papers.
+<img src="assest/Screenshot 2026-06-08 163936.png" width="800">
 
-### 🚗 Smart Parking System
+# 🌱 AgriGrow
 
-Vehicle tracking, toll management and parking monitoring.
+### AI Powered Smart Farming Ecosystem
 
-### 🚆 Railway Management System
+**Technologies:** React.js, Flask (Python), Firebase, TensorFlow, IoT & Machine Learning
 
-Database driven railway administration system.
+<br>
+<a href="https://github.com/Kartiksinghparihar/Agrigrow">
+<img src="https://img.shields.io/badge/VIEW%20CODE-black?style=for-the-badge&logo=github">
+</a>
 
----
+</td>
+
+</tr>
+
+</table>
 
 ## 🏆 Goals 2026
 
