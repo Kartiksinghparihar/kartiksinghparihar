@@ -78,16 +78,6 @@ Database driven railway administration system.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kartiksinghparihar\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kartiksinghparihar\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartiksinghparihar\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🏆 Goals 2026
 
 ✅ Strengthen DSA
