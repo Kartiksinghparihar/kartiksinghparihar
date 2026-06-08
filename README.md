@@ -6,7 +6,6 @@
 * 📊 Interested in Data Science & Analytics
 * 💻 Learning Full Stack Development
 * 🌱 Exploring AI, ML and IoT
-* 🎯 Solved 30+ LeetCode Problems
 
 ## Connect with me
 
