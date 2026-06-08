@@ -33,8 +33,8 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://github.com/Kartiksinghparihar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+<a href="https://kartik-portfolio-beryl-three.vercel.app/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="45" />
 </a>
 
 <a href="https://leetcode.com/u/Kartik_leetcodee01/" target="blank">
@@ -45,7 +45,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
-
 
 ## 🚀 Languages and Tools
 
