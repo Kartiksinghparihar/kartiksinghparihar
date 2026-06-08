@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kartik Singh Parihar</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There!+👋;B.Tech+IoT+Student;Data+Science+Enthusiast;Full+Stack+Learner;Solving+Problems+with+Code;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 
 <h3 align="center">
 B.Tech IoT Student | Data Science Enthusiast |
