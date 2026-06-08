@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Kartik Singh Parihar
 
-<!--
-**Kartiksinghparihar/kartiksinghparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech IoT Student | Data Science Enthusiast | DSA Learner
 
-Here are some ideas to get you started:
+* 🎓 B.Tech in IoT at MITS Gwalior
+* 📊 Interested in Data Science & Analytics
+* 💻 Learning Full Stack Development
+* 🌱 Exploring AI, ML and IoT
+* 🎯 Solved 30+ LeetCode Problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+📧 [kartiksinghp2006@gmail.com](mailto:kartiksinghp2006@gmail.com)
+
+💼 LinkedIn
+https://www.linkedin.com/in/kartik-singh-parihar-973518329
+
+💻 GitHub
+https://github.com/Kartiksinghparihar
+
+🧠 LeetCode
+https://leetcode.com/u/Kartik_leetcodee01/
