@@ -62,7 +62,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <td align="center">
 
-<img src="assest/Screenshot 2026-06-08 163936.png" width="800">
+<img src="assets/Screenshot 2026-06-08 163936.png" width="800">
 
 # 🌱 AgriGrow
 
